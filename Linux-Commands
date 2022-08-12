@@ -1,6 +1,6 @@
 Linux fundamentals:
 ***********
-
+Added my line 
 to see the linux version:
 
 $ lsb_release -a   : ubuntu machine
